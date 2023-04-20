@@ -1,3 +1,21 @@
+Technologies used in this app
+
+In my app, I utilized the following technologies:
+- React: A popular JavaScript library for building user interfaces.
+- TypeScript: A statically typed superset of JavaScript.
+- Vite: A fast build tool and development server.
+
+
+Run the app locally - Prerequisites and installation
+
+Before getting started with the app, you'll need to have Node.js and npm installed on your machine.
+
+To install and run the app, follow these simple steps:
+- Clone the repository.
+- Install dependencies by running npm install in the project directory.
+- Start the development server by running npm run dev in the project directory.
+
+
 Using Map from OpenLayers API.
 Using View from OpenLayers API.
 Using TileLayer from OpenLayers API.
